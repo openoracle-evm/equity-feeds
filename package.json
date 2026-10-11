@@ -1,0 +1,20 @@
+{
+  "name": "@openoracle/equity-feeds",
+  "version": "0.1.0",
+  "description": "Every Pyth equity price feed — ids, symbols, exchanges and trading hours — as JSON, refreshed daily.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./data/feeds.json",
+  "exports": {
+    ".": "./data/feeds.json",
+    "./us": "./data/markets/US.json",
+    "./tickers": "./data/us-tickers.json",
+    "./data/*": "./data/*"
+  },
+  "files": ["data"],
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
