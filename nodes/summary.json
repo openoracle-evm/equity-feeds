@@ -1,0 +1,42 @@
+[
+  {
+    "market": "US",
+    "feeds": 1051,
+    "timeZone": "America/New_York"
+  },
+  {
+    "market": "HK",
+    "feeds": 107,
+    "timeZone": "Asia/Hong_Kong"
+  },
+  {
+    "market": "Index",
+    "feeds": 33,
+    "timeZone": "America/New_York"
+  },
+  {
+    "market": "JP",
+    "feeds": 21,
+    "timeZone": "Asia/Tokyo"
+  },
+  {
+    "market": "KR",
+    "feeds": 18,
+    "timeZone": "Asia/Seoul"
+  },
+  {
+    "market": "CN",
+    "feeds": 14,
+    "timeZone": "Asia/Shanghai"
+  },
+  {
+    "market": "TW",
+    "feeds": 6,
+    "timeZone": "Asia/Taipei"
+  },
+  {
+    "market": "IN",
+    "feeds": 1,
+    "timeZone": "Asia/Kolkata"
+  }
+]
