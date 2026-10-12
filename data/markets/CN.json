@@ -1,0 +1,142 @@
+[
+  {
+    "id": "0x74382688625fe4066dbd189053fcb95bea0aafa52e79170fd84677b08aea6503",
+    "symbol": "Equity.CN.600519/CNY",
+    "market": "CN",
+    "ticker": "600519",
+    "name": "KWEICHOW MOUTAI",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xd34160411c56db59a5aae51051c460ecea95c3a62d454ae707f26b03bcd2e2bd",
+    "symbol": "Equity.CN.600584/CNY",
+    "market": "CN",
+    "ticker": "600584",
+    "name": "JCET",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x36fd117b6a7589b5d4cfc4d2fc360528a261120f49e36bc190b9e8bfcb93f652",
+    "symbol": "Equity.CN.601398/CNY",
+    "market": "CN",
+    "ticker": "601398",
+    "name": "ICBC",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xe3bb1d68cb562e99d3d041683d7a5ecb05cbffbad0759ce2ba942ef53080f2e1",
+    "symbol": "Equity.CN.603986/CNY",
+    "market": "CN",
+    "ticker": "603986",
+    "name": "GIGADEVICE SEMICONDUCTOR",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x57a99deada492187f8a6c152098e2060d0ece41c6e71df9be219bb80fceaea41",
+    "symbol": "Equity.CN.688008/CNY",
+    "market": "CN",
+    "ticker": "688008",
+    "name": "MONTAGE TECHNOLOGY",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x2df65c81bd540da3579e977ed69cab16a3a4fe41227ed39c200353bca0d2cc5a",
+    "symbol": "Equity.CN.688012/CNY",
+    "market": "CN",
+    "ticker": "688012",
+    "name": "AMEC",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x827d6b63b769c88347d375c825831486ec6136f1fcc07fde870f8228e3f0a0e2",
+    "symbol": "Equity.CN.688041/CNY",
+    "market": "CN",
+    "ticker": "688041",
+    "name": "HYGON",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xe635ebc1853ba04a17fb0ccceafc20e40d932ec7615c0fa30a5c67542ab24c04",
+    "symbol": "Equity.CN.688048/CNY",
+    "market": "CN",
+    "ticker": "688048",
+    "name": "SUZHOU EVERBRIGHT PHOTONICS",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x19dc3303523a5fa0e7504c7dc38db1cbb1009efc97d142808c4d25a493f9fab5",
+    "symbol": "Equity.CN.688256/CNY",
+    "market": "CN",
+    "ticker": "688256",
+    "name": "CAMBRICON TECHNOLOGIES",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xd8973bfb00e3675d97105027260b6b5f09d050f4fcbe4a49523778513ea3cedf",
+    "symbol": "Equity.CN.688521/CNY",
+    "market": "CN",
+    "ticker": "688521",
+    "name": "VERISILICON",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xa49166d1f5becc2af2e347e2e665fd1f6bdbda0208441a09f28c8690de35f2ad",
+    "symbol": "Equity.CN.688525/CNY",
+    "market": "CN",
+    "ticker": "688525",
+    "name": "BIWIN",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x898a0ba934c5785cadebb5bc81b2aa3cc1d3f426ef144429a7799e83fe0f6b17",
+    "symbol": "Equity.CN.688825/CNY",
+    "market": "CN",
+    "ticker": "688825",
+    "name": "CXMT",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x665a0c28099754c6b2591beff9ca5aa3be4c5c134ef1e5ba906cb146218c4f39",
+    "symbol": "Equity.CN.688836/CNY",
+    "market": "CN",
+    "ticker": "688836",
+    "name": "UNITREE",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0x09e829f75e127f5c2a955476e5fd0dc0286a481f873e6571d15864cf8fcc1a37",
+    "symbol": "Equity.CN.688981/CNY",
+    "market": "CN",
+    "ticker": "688981",
+    "name": "SMIC",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  }
+]
