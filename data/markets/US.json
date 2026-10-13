@@ -4350,6 +4350,16 @@
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
   },
   {
+    "id": "0x6448b5b4a6549a0762fceb1f933671a92df0fcd8845dba9adeb6d9b7a02da5b2",
+    "symbol": "Equity.US.IBB/USD",
+    "market": "US",
+    "ticker": "IBB",
+    "name": "IBB",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
     "id": "0x9db6bc1e6e9e5e60f6884e1cd8e4399cca9d0454c6e7234ad79680cf139748f5",
     "symbol": "Equity.US.IBIT/USD",
     "market": "US",
@@ -5155,6 +5165,16 @@
     "market": "US",
     "ticker": "KLAC",
     "name": "KLAC",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0xa3578e35928464ce245e06296f4c791af51729ef0aaa5153787f7a2365ed4bb9",
+    "symbol": "Equity.US.KLAR/USD",
+    "market": "US",
+    "ticker": "KLAR",
+    "name": "KLAR",
     "quote": "USD",
     "timeZone": "America/New_York",
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
@@ -9725,6 +9745,16 @@
     "market": "US",
     "ticker": "VIXY",
     "name": "VIXY",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0x0feebc96a29156fc192d1a67e28a1cc622e2b614d5c2eb9c822a6466345627b3",
+    "symbol": "Equity.US.VKTX/USD",
+    "market": "US",
+    "ticker": "VKTX",
+    "name": "VKTX",
     "quote": "USD",
     "timeZone": "America/New_York",
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"

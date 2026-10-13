@@ -1260,6 +1260,26 @@
     "schedule": "America/New_York;O,O,O,O,O,O,O;"
   },
   {
+    "id": "0xe18423cdff0e892a5338bad2047550d21ceb7f3c13ba6dfa6911c63326451c44",
+    "symbol": "Equity.Index.BABA/USD",
+    "market": "Index",
+    "ticker": "BABA",
+    "name": "BABA",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0xdefdc6231758c5febdd89d82fa30ef8a1d822147779b7c58bcc158f34b547ffe",
+    "symbol": "Equity.Index.BNC/USD",
+    "market": "Index",
+    "ticker": "BNC",
+    "name": "BNC",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
     "id": "0x49387483ff50427bf0ff5928082b0cf16331421067c59f4c582a07aa117db1ac",
     "symbol": "Equity.Index.COIN/USD",
     "market": "Index",
@@ -1300,11 +1320,31 @@
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
   },
   {
+    "id": "0xd54eccd2ce6b1fa72125abe1f88866470320fa44960fa1d1cf8761f9cfca8def",
+    "symbol": "Equity.Index.GME/USD",
+    "market": "Index",
+    "ticker": "GME",
+    "name": "GME",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
     "id": "0xad519718d387de4f0d7d29ea16a3730ce42e49c59fef6fba6fc9bac477645f6f",
     "symbol": "Equity.Index.GOOGL/USD",
     "market": "Index",
     "ticker": "GOOGL",
     "name": "GOOGL",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0xe1ec83d83a2e0eb8c0b8c4a505264785ee6676473452697a03f2322c73879bcf",
+    "symbol": "Equity.Index.HIMS/USD",
+    "market": "Index",
+    "ticker": "HIMS",
+    "name": "HIMS",
     "quote": "USD",
     "timeZone": "America/New_York",
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
@@ -1450,6 +1490,16 @@
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
   },
   {
+    "id": "0x6d595efb30db0e0139f254eb40985c8695e7ed7e5856287cb5084d2d7794b7eb",
+    "symbol": "Equity.Index.QQQ/USD",
+    "market": "Index",
+    "ticker": "QQQ",
+    "name": "QQQ",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
     "id": "0x3d98d6fcce0d5e828870bb93b2b1725060a581cb9bef790847337a6c8933c7a4",
     "symbol": "Equity.Index.SAMSUNG/USD",
     "market": "Index",
@@ -1505,6 +1555,16 @@
     "market": "Index",
     "ticker": "SPCX",
     "name": "SPCX",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0xf32c3fbdd20b846bb53395bf175c42955e00b1bffb5a778bb624982b318f5461",
+    "symbol": "Equity.Index.SPY/USD",
+    "market": "Index",
+    "ticker": "SPY",
+    "name": "SPY",
     "quote": "USD",
     "timeZone": "America/New_York",
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
@@ -6350,6 +6410,16 @@
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
   },
   {
+    "id": "0x6448b5b4a6549a0762fceb1f933671a92df0fcd8845dba9adeb6d9b7a02da5b2",
+    "symbol": "Equity.US.IBB/USD",
+    "market": "US",
+    "ticker": "IBB",
+    "name": "IBB",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
     "id": "0x9db6bc1e6e9e5e60f6884e1cd8e4399cca9d0454c6e7234ad79680cf139748f5",
     "symbol": "Equity.US.IBIT/USD",
     "market": "US",
@@ -7155,6 +7225,16 @@
     "market": "US",
     "ticker": "KLAC",
     "name": "KLAC",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0xa3578e35928464ce245e06296f4c791af51729ef0aaa5153787f7a2365ed4bb9",
+    "symbol": "Equity.US.KLAR/USD",
+    "market": "US",
+    "ticker": "KLAR",
+    "name": "KLAR",
     "quote": "USD",
     "timeZone": "America/New_York",
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
@@ -11725,6 +11805,16 @@
     "market": "US",
     "ticker": "VIXY",
     "name": "VIXY",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
+    "id": "0x0feebc96a29156fc192d1a67e28a1cc622e2b614d5c2eb9c822a6466345627b3",
+    "symbol": "Equity.US.VKTX/USD",
+    "market": "US",
+    "ticker": "VKTX",
+    "name": "VKTX",
     "quote": "USD",
     "timeZone": "America/New_York",
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
