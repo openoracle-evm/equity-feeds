@@ -12570,6 +12570,16 @@
     "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
   },
   {
+    "id": "0xe07046599174331980353324aea6a8c6e71c556b0374211004c774d4d3d10685",
+    "symbol": "Equity.US.ZCSH/USD",
+    "market": "US",
+    "ticker": "ZCSH",
+    "name": "ZCSH",
+    "quote": "USD",
+    "timeZone": "America/New_York",
+    "schedule": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C,0101/C,0118/C,0215/C,0326/C,0531/C,0618/C,0705/C"
+  },
+  {
     "id": "0xc9a4605e75ebd30b016e1ca23cc95b221c6b81be301ab100d6c4c623232b36e8",
     "symbol": "Equity.US.ZM/USD",
     "market": "US",
