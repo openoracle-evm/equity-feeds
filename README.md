@@ -5,11 +5,11 @@
 Stop copying feed ids by hand. Look up a ticker, get its id and its market hours.
 
 <!-- summary:start -->
-**1261 feeds** across 8 markets.
+**1260 feeds** across 8 markets.
 
 | Market | Feeds | Time zone | File |
 |---|---:|---|---|
-| `US` | 1055 | America/New_York | [`markets/US.json`](data/markets/US.json) |
+| `US` | 1054 | America/New_York | [`markets/US.json`](data/markets/US.json) |
 | `HK` | 107 | Asia/Hong_Kong | [`markets/HK.json`](data/markets/HK.json) |
 | `Index` | 39 | America/New_York | [`markets/Index.json`](data/markets/Index.json) |
 | `JP` | 21 | Asia/Tokyo | [`markets/JP.json`](data/markets/JP.json) |
