@@ -1,5 +1,35 @@
 [
   {
+    "id": "0xd6d14770a51c37d04efe4d4286b2d8638ee0bec44bfcbb78f965b8c9fe20216c",
+    "symbol": "Equity.CN.002683/CNY",
+    "market": "CN",
+    "ticker": "002683",
+    "name": "HONGDA BLASTING",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xcf7160cbc893c3a07eaf55c9411ad4d1ac9a6553b6ec45a5a94cd981fe535437",
+    "symbol": "Equity.CN.300308/CNY",
+    "market": "CN",
+    "ticker": "300308",
+    "name": "ZHONGJI INNOLIGHT",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
+    "id": "0xa803e4b9c631bc076790d0e978d9c7b39254adce978e27968d069141cc258201",
+    "symbol": "Equity.CN.300376/CNY",
+    "market": "CN",
+    "ticker": "300376",
+    "name": "EAST GROUP",
+    "quote": "CNY",
+    "timeZone": "Asia/Shanghai",
+    "schedule": "Asia/Shanghai;0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,0930-1130&1300-1457,C,C;0216/C,0217/C,0218/C,0219/C,0220/C,0223/C,0406/C,0501/C,0504/C,0505/C,0619/C,0925/C,1001/C,1002/C,1005/C,1006/C,1007/C"
+  },
+  {
     "id": "0x74382688625fe4066dbd189053fcb95bea0aafa52e79170fd84677b08aea6503",
     "symbol": "Equity.CN.600519/CNY",
     "market": "CN",
