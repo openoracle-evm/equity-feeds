@@ -5,7 +5,7 @@
 Stop copying feed ids by hand. Look up a ticker, get its id and its market hours.
 
 <!-- summary:start -->
-**1265 feeds** across 8 markets.
+**1267 feeds** across 8 markets.
 
 | Market | Feeds | Time zone | File |
 |---|---:|---|---|
@@ -13,8 +13,8 @@ Stop copying feed ids by hand. Look up a ticker, get its id and its market hours
 | `HK` | 107 | Asia/Hong_Kong | [`markets/HK.json`](data/markets/HK.json) |
 | `Index` | 39 | America/New_York | [`markets/Index.json`](data/markets/Index.json) |
 | `JP` | 22 | Asia/Tokyo | [`markets/JP.json`](data/markets/JP.json) |
+| `CN` | 19 | Asia/Shanghai | [`markets/CN.json`](data/markets/CN.json) |
 | `KR` | 18 | Asia/Seoul | [`markets/KR.json`](data/markets/KR.json) |
-| `CN` | 17 | Asia/Shanghai | [`markets/CN.json`](data/markets/CN.json) |
 | `TW` | 6 | Asia/Taipei | [`markets/TW.json`](data/markets/TW.json) |
 | `IN` | 1 | Asia/Kolkata | [`markets/IN.json`](data/markets/IN.json) |
 <!-- summary:end -->

@@ -20,14 +20,14 @@
     "timeZone": "Asia/Tokyo"
   },
   {
+    "market": "CN",
+    "feeds": 19,
+    "timeZone": "Asia/Shanghai"
+  },
+  {
     "market": "KR",
     "feeds": 18,
     "timeZone": "Asia/Seoul"
-  },
-  {
-    "market": "CN",
-    "feeds": 17,
-    "timeZone": "Asia/Shanghai"
   },
   {
     "market": "TW",
