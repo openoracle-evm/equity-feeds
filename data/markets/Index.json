@@ -31,9 +31,9 @@
   },
   {
     "id": "0x5da511a7c68b17a3bc94380cab4756bc83ab87f86307af10ea58467a64b6689d",
-    "symbol": "Equity.Index.ANTHROPIC/USD",
+    "symbol": "Equity.Index.ANT/USD",
     "market": "Index",
-    "ticker": "ANTHROPIC",
+    "ticker": "ANT",
     "name": "ANTHROPIC",
     "quote": "USD",
     "timeZone": "America/New_York",
